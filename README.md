@@ -43,7 +43,7 @@
 |:---:|:---:|:---:|:---:|
 |![](https://github.com/JaeGuipi.png?size=120)|![](https://github.com/99minji.png?size=120)|![](https://github.com/hyemeeny.png?size=120)|![](https://github.com/jjeankim.png?size=120)|
 |👑[이재서](https://github.com/JaeGuipi)|[구민지](https://github.com/99minji)|[지혜민](https://github.com/hyemeeny)|[김진](https://github.com/jjeankim)|
-|검색 페이지 <br/>예약 현황 페이지 <br />간편 회원가입 구현 <br/>middleware 구현 <br/>fullcalendar 커스텀|메인 페이지<br /> 체험 상세 페이지<br /> 리뷰 구현<br /> 지도 SDK 기능 구현 <br />fullcalendar 커스텀|로그인 페이지<br /> 내 프로필 페이지<br /> 내 체험 등록 및 수정 페이지 <br /> 지도 SDK 기능 구현<br />datepicker 커스텀<br />SCSS 및 Global Style 설정|회원가입 페이지<br /> 예약 내역 페이지<br /> 내 체험 관리 페이지<br /> 후기 작성 모달 구현<br /> 알림 구현|
+|검색 페이지 <br/>예약 현황 페이지 <br />간편 회원가입 구현 <br/>middleware 구현 <br/>fullcalendar 커스텀|메인 페이지<br /> 체험 상세 페이지<br /> 리뷰 구현<br /> 지도 SDK 기능 구현 <br />fullcalendar 커스텀|로그인 페이지<br /> 내 프로필 페이지<br /> 내 체험 등록 및 수정 페이지 <br /> 지도 SDK 기능 구현<br />헤더 및 사이드바 구현<br />SCSS 및 Global Style 설정|회원가입 페이지<br /> 예약 내역 페이지<br /> 내 체험 관리 페이지<br /> 후기 작성 모달 구현<br /> 알림 구현|
 
 <br />
 
